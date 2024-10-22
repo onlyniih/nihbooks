@@ -32,7 +32,7 @@
     padding: 1em;
 }
 
-.card__descrição {
+.card__descricao {
     display: flex;
     justify-content: space-between;
     margin-bottom: 0.5em;
